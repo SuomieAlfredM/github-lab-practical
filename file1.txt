@@ -1,0 +1,5 @@
+GitHub is an online platform used to store, manage, and share source code.
+
+It helps developers track changes in code using version control.
+
+GitHub allows multiple people to work on the same project together.
